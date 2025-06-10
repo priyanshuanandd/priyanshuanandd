@@ -12,7 +12,7 @@ I'm a passionate **B.Tech Electrical Engineering** student at **Motilal Nehru Na
 - 🌱 **Learning:** Advanced Machine Learning, System Design, and Cloud Technologies
 - 💡 **Passionate about:** Competitive Programming, Full Stack Development, and AI/ML
 - 🎯 **Goal:** Building scalable solutions that solve real-world problems
-- ⚡ **Fun fact:** I've solved over **1200+ DSA problems** across various platforms!
+- ⚡ **Fun fact:** I've solved over **1500+ DSA problems** across various platforms!
 
 ## 🏆 Competitive Programming Achievements
 
