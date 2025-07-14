@@ -22,7 +22,7 @@ I'm a passionate **B.Tech Electrical Engineering** student at **Motilal Nehru Na
 |----------|--------|--------------|------------------|
 | **Codeforces** | [priyanshuanandd](https://codeforces.com/profile/priyanshuanandd) | 1442 (Specialist) | Consistent Problem Solver |
 | **CodeChef** | [pricomputation](https://codechef.com/users/pricomputation) | 4⭐ (1849) | Strong Contest Performance |
-| **LeetCode** | [kungfupandaisbackagain](https://leetcode.com/priyanshuanandd) | 2001 (Knight) | 433rd Global Rank (Weekly 436) |
+| **LeetCode** | [priyanshuanandd](https://leetcode.com/priyanshuanandd) | 2001 (Knight) | 433rd Global Rank (Weekly 436) |
 
 </div>
 
