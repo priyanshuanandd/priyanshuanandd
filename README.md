@@ -8,7 +8,7 @@
 
 I'm a passionate **B.Tech Electrical Engineering** student at **Motilal Nehru National Institute of Technology, Allahabad** with a deep love for coding and problem-solving. When I'm not debugging code, you'll find me conquering algorithmic challenges or building innovative solutions that make a difference.
 
-- 🎓 **Currently pursuing:** B.Tech in Electrical Engineering (CGPA: 7.67)
+- 🎓 **Currently pursuing:** B.Tech in Electrical Engineering (CGPA: 7.69)
 - 🌱 **Learning:** Advanced Machine Learning, System Design, and Cloud Technologies
 - 💡 **Passionate about:** Competitive Programming, Full Stack Development, and AI/ML
 - 🎯 **Goal:** Building scalable solutions that solve real-world problems
