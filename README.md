@@ -66,7 +66,7 @@ I'm a passionate **B.Tech Electrical Engineering** student at **Motilal Nehru Na
 </div>
 
 ## 🎨 Things I've built (and somehow they work!)
-### 📺 [TheAniRec](https://github.com/priyanshuanandd/theanirec)
+### 📺 [TheAniRec](https://github.com/priyanshuanandd/AnimeWatchlist-Anirec) | [Live Demo](https://theanirec.vercel.app)
 > Anime progress tracker and recommendation system using MyAnimeList data  
 **Tech:** React, Express, MongoDB Atlas, TailwindCSS, Jikan API  
 - 🔍 Search, track, and manage anime watchlist by status (Watching, Completed, Dropped)  
