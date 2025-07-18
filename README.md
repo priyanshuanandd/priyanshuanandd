@@ -66,6 +66,13 @@ I'm a passionate **B.Tech Electrical Engineering** student at **Motilal Nehru Na
 </div>
 
 ## 🎨 Things I've built (and somehow they work!)
+### 📺 [TheAniRec](https://github.com/priyanshuanandd/theanirec)
+> Anime progress tracker and recommendation system using MyAnimeList data  
+**Tech:** React, Express, MongoDB Atlas, TailwindCSS, Jikan API  
+- 🔍 Search, track, and manage anime watchlist by status (Watching, Completed, Dropped)  
+- 📆 Upcoming releases with timezone-adjusted scheduling  
+- ✅ Interactive UI with status toggling and episode tracking  
+- 🔐 Clerk-based authentication and cloud deployment via Vercel  
 
 ### 🤖 [Interview Aid](https://github.com/priyanshuanandd/interview-aid) | [Live Demo](https://interviewaid.vercel.app)
 > AI-powered Interview Preparation Platform with voice interaction and personalized feedback
